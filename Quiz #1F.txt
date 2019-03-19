@@ -1,0 +1,7 @@
+Observation:
+
+	I have observe during the troubleshooting, the CPU Unit won't turn on even with the right connections on the motherboard. The LED in the motherboard is turned on. But as we checked further the power supply unit, I observed that the fuse in the power supply is fried. Thus, the power supply is where the defect is.
+
+Solution:
+
+	We must replace the fuse in the power supply and chaeck again its connections afterwards. We must know where the right connection is between the motherboard and its other components so that the whole computer will work.
